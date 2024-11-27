@@ -37,15 +37,6 @@ MONGODB_URI=YOUR_MONGODB_URI(example: mongodb://localhost:27017)
 DB_NAME=YOUR_DB_NAME
 ```
 
-Step 4: Install MongoDB (Linux Ubuntu)
-
-See <https://docs.mongodb.com/manual/installation/> for more infos
-
-Step 5: Run Mongo daemon
-
-```bash
-sudo service mongod start
-```
 
 Step 6: Start the app by
 
@@ -53,14 +44,3 @@ Step 6: Start the app by
 npm start
 ```
 
-## Author
-
-- [**Truly Mittal**](https://trulymittal.com)
-
-## Contribute
-
-You can fork this repo and send me a PR.
-
-## License
-
-This project is licensed under the MIT License.
